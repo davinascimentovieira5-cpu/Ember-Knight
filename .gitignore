@@ -1,0 +1,39 @@
+# Pastas geradas automaticamente pelo Unity
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# Arquivos de memória/crash
+/[Mm]emoryCaptures/
+
+# Recordings
+/[Rr]ecordings/
+
+# Arquivos específicos de IDE
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Arquivos temporários do Mac
+.DS_Store
+
+# Crashlytics
+crashlytics-build.properties
